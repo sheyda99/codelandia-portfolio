@@ -1,10 +1,12 @@
 # Portfolio project README
 
+
 ## Table of Contents
 - [Installation](#installation)
 - [Running the Project](#running-the-project)
   - [Run Admin Panel](#run-admin-panel)
   - [Run Frontend](#run-frontend)
+
 
 ## Installation
 Follow these steps to set up the project on your local machine:
@@ -26,7 +28,7 @@ Follow these steps to set up the project on your local machine:
 ## Running the Project
 To run the project, you need to start both the admin panel and the frontend.
 
-# Run Admin Panel
+### Run Admin Panel
 1. Navigate to the admin-panel directory:
    ```bash
    cd admin-panel/
@@ -35,7 +37,7 @@ To run the project, you need to start both the admin panel and the frontend.
    ```bash
    npm start
 
-# Run Frontend
+### Run Frontend
 1. Navigate to the project directory:
    ```bash
    cd project/
